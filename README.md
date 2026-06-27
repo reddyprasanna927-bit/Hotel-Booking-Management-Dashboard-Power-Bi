@@ -45,3 +45,5 @@ Data Modeling
 CSV Dataset
 
 # Dashboard Screenshort
+<img width="1312" height="743" alt="Screenshot 2026-06-27 152419" src="https://github.com/user-attachments/assets/495fd800-1a3d-4653-9921-2b788626746d" />
+
