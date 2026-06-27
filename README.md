@@ -7,7 +7,7 @@
 -Support business decisions with interactive analytics
 
 # Dataset
-<a herf ="https://github.com/reddyprasanna927-bit/Hotel-Booking-Management-Dashboard-Power-Bi/blob/main/hospital_management.csv">(dataset</a>
+<a herf ="https://github.com/reddyprasanna927-bit/Hotel-Booking-Management-Dashboard-Power-Bi/blob/main/hospital_management.csv">(Dataset</a>
 
 # Dashboard Features
 # Overview
@@ -19,6 +19,7 @@
 -Key Performance Indicators (KPIs)
 
 # Dashboard
+<a herf ="https://github.com/reddyprasanna927-bit/Hotel-Booking-Management-Dashboard-Power-Bi/blob/main/hotel%20booking%20project%20powerbi1.pbix">(Dashboard</a>
 
 # Customer Insights
 -Booking Platform Analysis
