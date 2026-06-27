@@ -28,3 +28,18 @@
 -Booking Price Overview
 -Interactive Data Tables
 -Customer Booking Trends
+
+# Revenue Analysis
+-Revenue by Reservation Type
+-Discount Performance
+-Hotel Rank Analysis
+-Net Commission Analysis
+-Revenue by Booking Platform
+-Room Nights & Fulfillment Analysis
+
+# Technologies Used
+Microsoft Power BI
+Power Query
+DAX (Data Analysis Expressions)
+Data Modeling
+CSV Dataset
