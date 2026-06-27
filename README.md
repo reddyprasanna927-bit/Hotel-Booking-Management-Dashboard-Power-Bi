@@ -18,6 +18,8 @@
 -Daily Booking Revenue Trend
 -Key Performance Indicators (KPIs)
 
+# Dashboard
+
 # Customer Insights
 -Booking Platform Analysis
 -Customer Distribution
