@@ -46,4 +46,8 @@ CSV Dataset
 
 # Dashboard Screenshort
 <img width="1312" height="743" alt="Screenshot 2026-06-27 152419" src="https://github.com/user-attachments/assets/495fd800-1a3d-4653-9921-2b788626746d" />
+<img width="1307" height="726" alt="Screenshot 2026-06-27 152500" src="https://github.com/user-attachments/assets/76ecc45a-7163-478a-bf4f-ce2945a3e339" />
+<img width="1307" height="732" alt="Screenshot 2026-06-27 152545" src="https://github.com/user-attachments/assets/527fd824-1cae-4086-bee1-7ad025c77ab2" />
+
+
 
